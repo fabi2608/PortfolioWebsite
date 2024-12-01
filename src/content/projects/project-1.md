@@ -5,63 +5,51 @@ publishDate: 'Jan 02 2024'
 isFeatured: true
 seo:
   image:
-    src: '/project-1.jpg'
+    src: '/superchat.png'
     alt: Project preview
 ---
-
-![Project preview](/project-1.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
-
+ 
+![Project preview](/superchat.png)
+ 
 **Project Overview:**
-EcooooBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
-
+SuperChat is a simple yet powerful chat application developed using ASP.NET and C#. The platform allows users to create accounts, interact with others by initiating chats, and send/receive messages in real-time. One of its key features is the ability to manage users and messages, including deleting both user accounts and messages. The project ran over the course of 3-4 months, providing a hands-on experience in building chat applications with a focus on user management and real-time messaging.
+ 
 ## Objectives
-
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
-
+ 
+1. Develop a basic chat application where users can communicate with each other.
+2. Implement functionality for creating and deleting users, as well as initiating and deleting chats.
+3. Provide real-time messaging and management features for both users and messages.
+ 
 ## Features
-
-1. **EcoScore and Challenges:**
-
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
-
-2. **Personalized Eco-Goals:**
-
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
-
-3. **Green Rewards Marketplace:**
-
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
-
-4. **Community Hub:**
-
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
-
-5. **EcoEducator AI Assistant:**
-
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
-
+ 
+1. **User Management:**
+   - Admins can create, delete, and manage users within the system.
+   - Simple user registration and authentication via the application interface.
+ 
+2. **Chat Functionality:**
+   - Users can initiate chats with one or more participants.
+   - The system supports one-on-one and group chats.
+ 
+3. **Message Management:**
+   - Users can send and receive messages in real-time.
+   - Users have the ability to delete messages, allowing them to manage their chat history.
+ 
+4. **Simple User Interface:**
+   - The user interface was built using WPF (Windows Presentation Foundation), providing a clean, easy-to-use platform for communication.
+   - The application ensures an intuitive experience for both end-users and administrators.
+ 
 ## Technology Stack
-
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
+ 
+- **Frontend:** WPF for the user interface, providing a modern desktop application experience.
+- **Backend:** ASP.NET and C# for building the chat application's server-side logic and user management system.
+- **Database:** MongoDB for efficient storage and retrieval of user data, chat history, and messages.
+ 
+## Git Repository
+ 
+The project's code and development progress can be found on GitHub: [SuperChat Repo](https://github.com/fabi2608/Beierschoder_ChatApp).
+ 
 ## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+ 
+SuperChat has successfully demonstrated the creation of a fully functional chat application with key features like user management, real-time messaging, and simple data handling. The application is ideal for use as a base for more advanced chat applications, offering a strong foundation for additional features and improvements.
+ 
+**Note:** This project was developed over a span of 3-4 months, and it served as a great learning experience in building chat applications using modern technologies such as ASP.NET and MongoDB.

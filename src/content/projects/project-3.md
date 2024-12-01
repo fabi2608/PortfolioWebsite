@@ -4,60 +4,53 @@ description: A simple survival game programmed with Unity and C#
 publishDate: 'Jan 10 2024'
 seo:
   image:
-    src: '/project-3.jpg'
+    src: '/ignaz.png'
     alt: Project preview
-
+ 
 ---
-
-![Project preview](/project-3.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
-
+ 
+![Project preview](/ignaz.png)
+ 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
-
+Survival Ignaz is an action-packed survival game developed with Unity and C#. In this game, players control the protagonist, Ignaz, who must survive on a dangerous island. The island is constantly under threat by enemies such as skeletons and zombies. Ignaz has to use his wits and available resources to fight back, protect his life, and build defenses in order to survive.
+ 
 ## Objectives
-
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
-
+ 
+1. Create an immersive and engaging survival experience with a playable character (Ignaz) who defends himself from hostile enemies.
+2. Develop dynamic gameplay where players can place trees and test tubes to build defenses against attacking enemies.
+3. Implement a challenging island environment that the player can navigate while managing health, resources, and survival tactics.
+ 
 ## Features
-
-1. **Multi-Exchange Integration:**
-
-- CryptoTrader Dashboard aggregates data from multiple cryptocurrency exchanges, allowing users to view their entire portfolio in one centralized location.
-- Real-time updates provide the latest market prices, trading volumes, and order book data.
-
-2. **Portfolio Analytics:**
-
-- Users can analyze their portfolio's performance through interactive charts and graphs.
-- The dashboard offers insights into historical performance, asset allocation, and profit/loss over time.
-
-3. **Risk Management Tools:**
-
-- Advanced risk management tools help users assess the volatility and potential risks associated with their cryptocurrency investments.
-- Users receive alerts for significant market fluctuations or changes in their portfolio value.
-
-4. **Automated Transaction Tracking:**
-
-- The dashboard automatically tracks and records users' cryptocurrency transactions, simplifying the process of updating and managing portfolios.
-- Users can categorize transactions, add notes, and maintain a comprehensive transaction history.
-
-5. **News and Market Insights:**
-
-- A dedicated section provides real-time news and market insights relevant to users' cryptocurrency holdings.
-- Users can stay informed about market trends, regulatory developments, and news affecting their investment decisions.
-
+ 
+1. **Playable Character:**
+   - The protagonist, Ignaz, can move, fight, and build in an open-world environment.
+   - Health is gradually reduced when attacked by enemies, forcing players to carefully plan their defense strategies.
+ 
+2. **Enemy Encounters:**
+   - Skeletons and zombies are among the many types of enemies that Ignaz will encounter during gameplay.
+   - Enemies are AI-controlled and attack Ignaz on sight, providing a constantly changing challenge for players.
+ 
+3. **Building Defenses:**
+   - Players can place trees and test tubes to create defensive barriers, slowing down or stopping the enemies' progress.
+   - This allows for strategic thinking as players can control the environment to protect themselves from waves of enemies.
+ 
+4. **Island Map:**
+   - The game world is a self-created island map, filled with dangers and opportunities for exploration.
+   - The map is designed to be challenging, with different terrains that require players to think creatively to survive.
+ 
 ## Technology Stack
-
-- Frontend: React for a responsive and interactive user interface.
-- Backend: Django for server-side logic and API integration.
-- Database: PostgreSQL for efficient storage and retrieval of portfolio and market data.
-- API Integration: Integration with cryptocurrency exchange APIs for real-time market data.
-
+ 
+- **Game Engine:** Unity for building the 3D world and gameplay mechanics.
+- **Scripting:** C# for game logic and interaction.
+- **Graphics:** Pixel art for character and environmental design, creating a retro-inspired visual aesthetic.
+- **Version Control:** GitHub for team collaboration, allowing for version control and efficient project management.
+ 
+## GitHub Repository:
+ 
+The project's code and development progress can be found on GitHub: [Survival Ignaz Repo](https://github.com/BernhardPirchner/Survival_Ignaz)
+ 
 ## Outcome
-
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+ 
+Survival Ignaz is the first project created as a team and has been a great success. It is a survival game where players must think strategically, building defenses and managing resources in a dynamic and ever-changing environment. Developed over several months with a talented team consisting of **Bernhard Pirchner**, **Daniel Brunhuber**, and **Zvonimir Ljubic**, Survival Ignaz showcases the team's ability to collaborate and create an engaging game experience.
+ 
+**Note:** Survival Ignaz is an interactive survival game where players navigate challenges, manage resources, and adapt to a dynamic environment to stay alive.

@@ -5,60 +5,60 @@ publishDate: 'Jan 10 2024'
 isFeatured: true
 seo:
   image:
-    src: '/project-3.jpg'
+    src: '/gipfelportal.png'
     alt: Project preview
-
+ 
 ---
-
-![Project preview](/project-3.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
-
+ 
+![Project preview](/gipfelportal.png)
+ 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
-
+Gipfelportal is a comprehensive and user-friendly scheduling application designed specifically for lift companies. This web and mobile platform aims to streamline workforce management by automating the processes of shift planning, vacation requests, and sick leave tracking. The goal is to replace the current paper-based system with a digital solution, offering real-time updates and centralized access for employees, administrators, and main administrators.
+ 
 ## Objectives
-
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
-
+ 
+1. Develop a responsive and intuitive application that works seamlessly on both mobile and desktop devices.
+2. Automate the management of work schedules, vacation requests, sick leave, and task assignments.
+3. Create distinct roles for users (employees, administrators, main administrator) with varying access levels and capabilities.
+4. Replace the existing Excel-based scheduling system with an efficient, error-free, and real-time digital platform.
+ 
 ## Features
-
-1. **Multi-Exchange Integration:**
-
-- CryptoTrader Dashboard aggregates data from multiple cryptocurrency exchanges, allowing users to view their entire portfolio in one centralized location.
-- Real-time updates provide the latest market prices, trading volumes, and order book data.
-
-2. **Portfolio Analytics:**
-
-- Users can analyze their portfolio's performance through interactive charts and graphs.
-- The dashboard offers insights into historical performance, asset allocation, and profit/loss over time.
-
-3. **Risk Management Tools:**
-
-- Advanced risk management tools help users assess the volatility and potential risks associated with their cryptocurrency investments.
-- Users receive alerts for significant market fluctuations or changes in their portfolio value.
-
-4. **Automated Transaction Tracking:**
-
-- The dashboard automatically tracks and records users' cryptocurrency transactions, simplifying the process of updating and managing portfolios.
-- Users can categorize transactions, add notes, and maintain a comprehensive transaction history.
-
-5. **News and Market Insights:**
-
-- A dedicated section provides real-time news and market insights relevant to users' cryptocurrency holdings.
-- Users can stay informed about market trends, regulatory developments, and news affecting their investment decisions.
-
+ 
+1. **User Roles & Authentication:**
+   - Employees, administrators, and the main administrator will each have tailored access to the application based on their role.
+   - Secure login and authentication processes ensure that sensitive data is protected.
+ 
+2. **Work Schedule Management:**
+   - Administrators can create, edit, and manage the service schedule for employees.
+   - Employees can view their working hours in both weekly and monthly formats.
+   - Changes to the schedule can be made in real time, and the system automatically saves the schedule at the end of each month.
+ 
+3. **Vacation & Sick Leave Tracking:**
+   - Administrators can easily manage and track vacation and sick leave requests.
+   - Employees can submit vacation or sick leave requests through the app, and administrators can approve or deny them with a few clicks.
+ 
+4. **To-Do Lists & Task Assignments:**
+   - Administrators can assign tasks and set up to-do lists for employees, ensuring that everyone stays on track with their responsibilities.
+ 
+5. **Real-Time Alerts & Notifications:**
+   - Administrators can send notifications and reminders to employees about upcoming events, shift changes, or tasks that need to be completed.
+ 
+6. **Main Administrator Features:**
+   - Main administrators have full control over locations, administrators, and user accounts, including the ability to add, edit, and delete accounts as needed.
+ 
 ## Technology Stack
-
-- Frontend: React for a responsive and interactive user interface.
-- Backend: Django for server-side logic and API integration.
-- Database: PostgreSQL for efficient storage and retrieval of portfolio and market data.
-- API Integration: Integration with cryptocurrency exchange APIs for real-time market data.
-
+ 
+- **Frontend:** Angular, Bootstrap, and VSCode for building a responsive and user-friendly interface.
+- **Backend:** C# and ASP.NET for the server-side logic and API integration.
+- **Database:** MongoDB for storing user data, schedules, and task information.
+- **Authentication:** Secure login using OAuth or other secure methods to protect sensitive user data.
+ 
+## Git Repository
+ 
+The project's code and development progress can be found on GitHub: [Diplomarbeit Repo](https://github.com/DaAlfi/Diplomarbeit)
+ 
 ## Outcome
-
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+ 
+Gipfelportal will revolutionize the scheduling and management process for lift companies, moving away from time-consuming, manual Excel sheets to an efficient, automated platform. By offering real-time updates, centralized information, and user-friendly interfaces, the application significantly reduces administrative workload and improves communication between employees and administrators.
+ 
+**Note:** This case study is part of a larger project created as part of my diploma thesis and the school project at HTL St.Johann. The project aims to modernize and digitalize the workforce management system for lift companies.

@@ -55,13 +55,9 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
+            text: 'CV',
+            href: '/cv'
         },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
     ],
     footerNavLinks: [
         {
@@ -72,14 +68,7 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+
     ],
     socialLinks: [
         {
@@ -91,7 +80,7 @@ const siteConfig: SiteConfig = {
         title: 'Hi There & Welcome to my Website!',
         text: "I'm an 18-year-old aspiring web developer from Eben im Pongau, Austria. Currently attending HTL St.Johann with a focus on Informatik, I enjoy coding in C, C#, and Java, and have a passion for web design. Besides tech, I’m a fan of football, tennis, and basketball. Feel free to explore my projects, or connect with me through my socials.",
         image: {
-            src: '/hero.jpeg',
+            src: '/home.png',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
